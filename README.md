@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy Jose 👋</h1>
-
 <p align="center">
-  <b>Desarrollador Full Stack</b> · Estudiante de <b>Ingeniería Mecatrónica</b> 🤖
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Jose+%F0%9F%91%8B;Desarrollador+Full+Stack;Ingenier%C3%ADa+Mecatr%C3%B3nica+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  🔭 Desarrollando <b>ERPs</b> &nbsp;|&nbsp; 🧠 Investigando con <b>LLMs</b>
+  🎧 Trabajando en <b>ERPs</b> &nbsp;|&nbsp; Investigación e integración de <b>LLMs</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tecnologías
+### 💻 Tecnologías
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -31,23 +31,12 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOsss666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOsss666&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JOsss666&theme=tokyonight" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOsss666&theme=tokyonight&no-frame=true&column=7" alt="Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>💡 "Aprendiendo algo nuevo cada día."</i>
+  <i>👽 JM™ </i>
 </p>
